@@ -28,9 +28,9 @@
 				<div class="col l12">
 					<h3 class="center-align">Link da Postagem</h3>
 					<h6 class="center-align" >Forneça o link da postagem que você deseja avaliar automáticamente a reação dos usuários que comentaram.</h6>
-					<form>
+					<form action="avalia.php">
 						<div class="input-field c">
-							<input id="link" type="text" class="validate">
+							<input id="link" name="link" type="text" class="validate">
 							<label for="link">Link</label>
 						</div>
 						<button class="btn waves-effect purple darken-4" type="submit" name="action">Enviar

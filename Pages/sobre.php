@@ -1,4 +1,6 @@
-<!DODCTYPE html>
+<?php     
+	include_once("config.php");
+?>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -18,7 +20,7 @@
 				<ul id="nav-mobile" class="right hide-on-med-and-down">
 					<li><a href="sobre.html">Sobre A API</a></li>
 					<li><a href="link.html">Avaliar</a></li>
-					<li><a href="link.html">Login</a></li>
+					<li><a href="instabot.php">Login</a></li>
 				</ul>
 			</div>
 		</nav>
