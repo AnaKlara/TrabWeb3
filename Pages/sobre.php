@@ -18,6 +18,7 @@
 				<ul id="nav-mobile" class="right hide-on-med-and-down">
 					<li><a href="sobre.html">Sobre A API</a></li>
 					<li><a href="link.html">Avaliar</a></li>
+					<li><a href="link.html">Login</a></li>
 				</ul>
 			</div>
 		</nav>
